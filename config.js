@@ -5,46 +5,46 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6282333081674] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6282333081674'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6282333081674] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
-global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
-global.github = 'https://github.com/Bot-Mdnew' //ganti aja pakai githubmu
-global.tt = '"_"' //ganti aja pakai tiktok mu
-global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
-global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
+global.nameowner = 'KYYXYZ BOTZZ'
+global nomor = '6282333081674' //ganti pakai nomor mu
+global.instagram = 'shopegame_kyyxyz' //ganti pakai Instagram mu
+global . github  =  'https://github.com/KYYXYZ BOTZZ' //ganti aja pakai githubmu
+global.tt = '"999_real"' //ganti aja pakai tiktok mu
+global.sc = 'kosong' //jngn ganti hargai creator
+global.ss = ' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '081251549899' //ganti pakai nomor dana mu
-global.pulsa = '081352848936' //ganti pakai nomor pulsa mu
-global.gopay = '081352848936' //ganti pakai nomor Gopay mu
+global.dana = '082333081674' //ganti pakai nomor dana mu
+global.pulsa = '082333081674' //ganti pakai nomor pulsa mu
+global.gopay = '081244823624' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai grup mu
-global.web = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot ='KYYXYZ BOTZZ' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/Fx81YhbRLFoFkWNwAbxdS6' //ganti pakai grup mu
+global.web = 'https://chat.whatsapp.com/Hn5WMb67arlJKZMqCm2eCO' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"_"' //ganti pakai Instagram mu
 global.saweria = '"_"' //bebas ganti aja pakai apa
 global.nomer = 'https://wa.me/6281251549899' //ganti jadi nomor mu
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 25.000 PERMINGGU Rp 10.000 PERBULAN RP 15.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti pakai foto bot mu
-global.fotonya3 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/c171460c1e60d22ea379e.jpg' //ganti pakai poto payment atau apa
+global.fotonya1 = '' //ganti jadi foto bot mu
+global.fotonya2 = '' //ini juga ganti pakai foto bot mu
+global.fotonya3 = '' //ini juga ganti
+global.fotonya4 = '' //ini juga ganti
+global.fotonya5 = '' //ini juga ganti
+global.fotonya6 = '' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = '' //ini juga ganti
+global.fotonya8 = '' //foto session
+global.donasi = '081244823624 [GOPAY]' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪Danibotz-Ofc⳹ ❋ཻུ۪۪'
+global.wm = 'KYYXYZ'
 global.watermark = wm
 global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜDani_ofcོ1꧅'
 global.wm3 = 'ᯤ Dani Offcial'
