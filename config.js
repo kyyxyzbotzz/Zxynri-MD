@@ -5,13 +5,13 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6285396265794] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6285396265794] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6285396265794'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
+global. nama pemilik= 'KYYXYZ BOTZ'
+global.numberowner = '6282333081674' //ganti pakai nomor mu
 global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
 global.github = 'https://github.com/Bot-Mdnew' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
@@ -19,9 +19,9 @@ global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '081251549899' //ganti pakai nomor dana mu
-global.pulsa = '081352848936' //ganti pakai nomor pulsa mu
-global.gopay = '081352848936' //ganti pakai nomor Gopay mu
+global.dana = 9' //ganti pakai nomor dana mu
+global.pulsa = 6' //ganti pakai nomor pulsa mu
+global.gopay = 6' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
